@@ -10,6 +10,7 @@ def adelante():
 adelante()
 
 **Resultado** 
+
 <img width="871" height="166" alt="image" src="https://github.com/user-attachments/assets/68e231ae-ebf2-499d-8eb3-1ef300d09019" />
 
 ---
@@ -23,6 +24,7 @@ def abajo(pasos):
 
 
 **Resultado**
+
 <img width="709" height="176" alt="image" src="https://github.com/user-attachments/assets/e41f8d89-4b55-464c-b3e8-9b61931036e9" />
 
 ---
@@ -41,6 +43,7 @@ abajo(3) # Muestra la cantidad de pasos hacia abajo
 
 
 **Resultado**
+
 <img width="1053" height="236" alt="image" src="https://github.com/user-attachments/assets/a2dd15d0-6f1d-481d-8bdf-32d9c62463a8" />
 
 ---
