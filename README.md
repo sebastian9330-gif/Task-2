@@ -104,8 +104,8 @@
 
 ### Bibliografias
 
-- Análisis de código Python. (2025, 30 noviembre). ChatGPT. https://chatgpt.com/s/t_692bc18398688191a2844264d69579f6
-- Análisis de código Python. (2025b, noviembre 30). ChatGPT. https://chatgpt.com/s/t_692bc535e3cc8191a80f909f62a70e96
+- [Análisis de código Python. 2025, 30 noviembre ChatGPT](https://chatgpt.com/s/t_692bc18398688191a2844264d69579f6)
+- [Análisis de código Python. 2025b, noviembre 30 ChatGPT](https://chatgpt.com/s/t_692bc535e3cc8191a80f909f62a70e96)
 
 
     
