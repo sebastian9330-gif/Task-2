@@ -4,7 +4,9 @@ Con esta código se busca reflejar el movimiento de la tortuga avanzando dejando
 Se recomienda ejecutar en la terminal ya que en Jupyter Notebook dentro de VS Code tiende a fallar y reinicia el kernel.
 
 def adelante():
+
     pasos = int(input("¿Cuántos pasos avance? "))
+    
     print("-" * pasos + ">")
 
 adelante()
@@ -17,9 +19,13 @@ adelante()
 
 Luego buscamos realizar la misma función pero esta vez trazando el avance hacia abajo otros 4 pasos
 
+
 def abajo(pasos):
+
     for _ in range(pasos):
-        print("  " * pasos + "|")   # cada paso hacia abajo    
+    
+        print("  " * pasos + "|")   # cada paso hacia abajo 
+        
     print("  " * pasos + "v") # punta de flecha
 
 
@@ -40,6 +46,7 @@ Ahora la tortuga no solo avanza hacia adelante y abajo sino que da un giro de 90
 Con parámetros de “adelante” “abajo” se le da la instrucción de los pasos que debe dar la tortuga.
 
 adelante(5) # dibuja la cantidad de paso que da hacia delante encontrandose con la fecha que baja
+
 abajo(3) # Muestra la cantidad de pasos hacia abajo 
 
 
