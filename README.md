@@ -3,10 +3,10 @@
 - ### **Con esta código se busca reflejar el movimiento de la tortuga avanzando dejando un rastro, para este ejemplo 10 pasos** 
 *Se recomienda ejecutar en la terminal ya que en Jupyter Notebook dentro de VS Code tiende a fallar y reinicia el kernel.*
 
-    def adelante():
-    pasos = int(input("¿Cuántos pasos avance? "))
-    print("-" * pasos + ">")
-    adelante()
+        def adelante():
+        pasos = int(input("¿Cuántos pasos avance? "))
+        print("-" * pasos + ">")
+        adelante()
 
 **Resultado** 
 
